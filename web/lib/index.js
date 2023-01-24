@@ -1,5 +1,10 @@
 window.ExposePresence = {
- github: {
-getRepo: location.pathname.replace("/","")
-}
-}
+    presData: {
+        details: "",
+        state: "",
+        largeImageKey: "",
+    },
+    github: {
+        getRepo: location.pathname.replace("/", ""),
+    },
+};
