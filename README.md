@@ -1,2 +1,2 @@
 # Expose
-Expose - Show what your doing on your Discord Rich Presence.
+Your Discord Rich Presence Has Been revolutionized.
