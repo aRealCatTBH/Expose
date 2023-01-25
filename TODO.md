@@ -11,3 +11,5 @@ erorr handling / add connection indicator
 add a reconnect button
 
 Blacklist/Whitelist
+
+support for arRPC without a server
