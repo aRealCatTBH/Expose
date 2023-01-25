@@ -4,16 +4,6 @@
 
 <hr>
 
-html control pannel
-
-erorr handling  
-
-add connection indicator
-both web and server wise
-
-add a reconnect button
-
 Blacklist/Whitelist
 
-support for arRPC without a server
-
+support for (ar)RPC without a server - Not possible until Discord allows WebSocket RPC publicly 

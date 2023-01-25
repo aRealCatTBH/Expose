@@ -3,7 +3,7 @@
   "description": "Your Discord Rich Presence Has Been revolutionized. ",
   "manifest_version": 2,
   "name": "Expose",
-  "version": "1.0",
+  "version": "2.0",
   "homepage_url": "https://github.com/aRealCatTBH/Expose/",
   "icons": {
     "48": "icons/expose.svg",
@@ -24,6 +24,13 @@
     "gecko": {
       "update_url": "https://arealcattbh.github.io/Expose/updates.json"
     }
+  },
+
+  
+  "browser_action": {
+    "default_icon": "icons/expose.svg",
+    "default_title": "Expose",
+    "default_popup": "popup/index.html"
   }
 
 }
