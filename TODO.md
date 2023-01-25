@@ -6,4 +6,7 @@
 
 Blacklist/Whitelist
 
+server - clear rpc on dc
+
+
 support for (ar)RPC without a server - Not possible until Discord allows WebSocket RPC publicly 
