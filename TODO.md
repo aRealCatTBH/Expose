@@ -6,10 +6,14 @@
 
 html control pannel
 
-erorr handling / add connection indicator
+erorr handling  
+
+add connection indicator
+both web and server wise
 
 add a reconnect button
 
 Blacklist/Whitelist
 
 support for arRPC without a server
+
