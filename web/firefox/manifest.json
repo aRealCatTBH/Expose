@@ -18,7 +18,12 @@
   "background": {
     "scripts": ["background.js"],
     "persistent": true
-  }
+  },
   
+  "browser_specific_settings": {
+    "gecko": {
+      "update_url": "https://arealcattbh.github.io/Expose/updates.json"
+    }
+  }
 
 }
