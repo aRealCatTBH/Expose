@@ -9,3 +9,5 @@ Expose is a browser extension that connects to Discord's local RPC server, and s
 It also can connect to <a href="https://github.com/OpenAsar/arrpc">arRPC</a>, An open implementation of Discord's local RPC servers.
 
 <a href="https://github.com/OpenAsar/arrpc">arRPC</a> allows RPC for setups that use  Discord Web or custom clients.
+
+Please view <a href="SETUP.md">SETUP.md</a>.
